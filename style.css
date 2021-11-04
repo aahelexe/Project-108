@@ -1,0 +1,39 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(252, 186, 6);
+    text-align: center;
+}
+#p1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.header_div {
+    background: rgb(114, 113, 112);
+    color: black;
+}
+.main_div button {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;    
+}
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+    border: black;
+    border-style: double;
+}
+hr {
+    color: black;
+}
